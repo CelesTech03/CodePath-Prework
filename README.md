@@ -30,6 +30,8 @@ Here's a walkthrough of implemented user stories:
 
 ![Tip Calculator](https://user-images.githubusercontent.com/57969388/150662456-97eee827-81dc-423d-abb3-44fa79175cba.gif)
 
+GIF created with [QuickTime](http://www.cockos.com/licecap/).
+
 ## Notes
 
 Describe any challenges encountered while building the app.
