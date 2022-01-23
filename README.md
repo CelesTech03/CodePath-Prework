@@ -28,9 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [](file:///Users/Celi/Desktop/Tip%20Calculator.gif).
+![Tip Calculator](https://user-images.githubusercontent.com/57969388/150662456-97eee827-81dc-423d-abb3-44fa79175cba.gif)
 
 ## Notes
 
