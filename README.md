@@ -1,6 +1,6 @@
 # Pre-work - *Tip Calculator*
 
-**Tip Calculator** is a tip calculator application for iOS.
+**Tipsy** is a tip calculator application for iOS.
 
 Submitted by: **CELESTE UREÑA**
 
