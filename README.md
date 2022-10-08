@@ -2,10 +2,6 @@
 
 **Tipsy** is a tip calculator application for iOS.
 
-Submitted by: **CELESTE UREÑA**
-
-Time spent: **1** hours spent in total
-
 ## User Stories
 
 The following **required** functionality is complete:
@@ -27,14 +23,6 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-![Tip Calculator](https://user-images.githubusercontent.com/57969388/150662456-97eee827-81dc-423d-abb3-44fa79175cba.gif)
-
-GIF created with [QuickTime](http://www.cockos.com/licecap/).
-
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
